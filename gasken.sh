@@ -243,6 +243,3 @@ print_blue "PRIVATE_KEY has been removed from hardhat.config.js."
 echo
 print_blue "Pushing these files to your GitHub Repo link"
 git add . && git commit -m "Initial commit" && git push origin main
-echo
-print_pink "Follow @ZunXBT on X for more one click guide like this"
-echo
